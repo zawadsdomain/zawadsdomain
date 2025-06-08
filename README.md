@@ -21,7 +21,7 @@
 ## 🧰 Tech Stack & Skills
 
 **Languages & Tools:**  
-`React` · `Vue.js` · `JavaScript` · `TypeScript` · `HTML/CSS` · `Node.js` · `Express` · `Python` · `C++` · `C` · `Rust`
+`React` · `JavaScript` · `TypeScript` · `HTML/CSS` · `Node.js` · `Express` · `Python` · `C++` · `C` · `Vue.js`· `Rust`
 
 **Databases & Backend:**  
 `SQL` · `PostgreSQL` · `MongoDB` · `Firebase` · `REST APIs`
