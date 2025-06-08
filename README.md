@@ -32,6 +32,6 @@
 
 Feel free to message me about opportunities, collaborations, or just to talk hoops & tech. I’m always happy to connect with others in the dev community.
 
-📫 **[LinkedIn](https://www.linkedin.com/in/zawad-chowdhury/)** | 📧 **zawad.c@umich.edu**
+📫 **[LinkedIn]((https://www.linkedin.com/in/zawad-chowdhury-b9a706222/))** | 📧 **zawadchowdhury53@gmail.com**
 
 Thanks for stopping by!
