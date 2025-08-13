@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Zawad Chowdhury!
+# 👋 Hi there, I'm Zawad!
 
 🎓 I'm a recent Computer Science graduate from the University of Michigan with a passion for building thoughtful and impactful applications that people actually *want* to use.
 
