@@ -34,4 +34,6 @@ Feel free to message me about opportunities, collaborations, or just to talk hoo
 
 📫 **[LinkedIn]((https://www.linkedin.com/in/zawad-chowdhury-b9a706222/))** | 📧 **zawadchowdhury53@gmail.com**
 
+Check out more @ https://www.zawad.site/
+
 Thanks for stopping by!
